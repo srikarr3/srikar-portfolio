@@ -1,5 +1,7 @@
 # Srikar Mandava - Portfolio Website
 
+[Live Site](https://srikar-portfolio-4evs.vercel.app/)
+
 A pixel-perfect, responsive portfolio website built with React, Tailwind CSS, and modern web technologies.
 
 ## 🚀 Features
